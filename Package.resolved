@@ -66,10 +66,10 @@
     {
       "identity" : "storage-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/supabase-community/storage-swift.git",
+      "location" : "https://github.com/skyglassapp/storage-swift.git",
       "state" : {
-        "revision" : "04703e499ca258899d7ad45717efe75b8ddc09ab",
-        "version" : "0.1.0"
+        "branch" : "skyglass",
+        "revision" : "75f94eb3ccc6c896fca1b5d7ecac2fd15853759f"
       }
     },
     {
